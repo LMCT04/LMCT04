@@ -1,5 +1,5 @@
 <h1 align="center">Hola! Mi nombre es Luciano Chirito</h1>
-<h3 align="center">Soy un programador Full Stack orientado al Front-end</h3>
+<h3 align="center">Tambien conocido como LMCT04 en GitHub</h3>
 
 - 📫 How to reach me **lucianochiritotorres@gmail.com**
 
