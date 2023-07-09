@@ -3,7 +3,7 @@
 
 <h2>¿Quien Soy?</h2>
 <p>Soy un Programador Full Stack orientado al Front-end</p>
-<p>Al finalizar la educacion secundaria me interese por el mundo de la programacion, por lo que empeze a estudiar Ingenieria en Sistemas Informaticos. Mi hambre por saber mas me llevo a tomar el HenryCourse en el cual termine por apasionarme por el codigo</p>
+<p>Al finalizar la educacion secundaria me interese por el mundo de la programacion, por lo que empeze a estudiar Ingenieria en Sistemas Informaticos. Mi hambre por saber mas me llevo a tomar el Bootcamp de Henry en el cual termine por apasionarme por el codigo</p>
 
 <h2>¿Que hago?</h2>
 <p>Actualmente busco expandir mis conocimientos sobre programacion y asi avanzar en mi formacion personal y profesional como programador</p>
