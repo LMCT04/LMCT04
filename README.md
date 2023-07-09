@@ -3,6 +3,7 @@
 
 <h2>¿Quien Soy?</h2>
 <p>Soy un Full Stack Developer orientado al Front-end</p>
+<p>Al finalizar la educacion secundaria me interese por el mundo de la programacion, por lo que empeze a estudiar Ingenieria en Sistemas Informaticos. Mi hambre por saber mas me llevo a tomar el HenryCourse en el cual termine por apasionarme por el codigo</p>
 
 - 📫 How to reach me **lucianochiritotorres@gmail.com**
 
