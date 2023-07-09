@@ -28,3 +28,4 @@
 
 Como contactarme: **lucianochiritotorres@gmail.com**
 
+[LinkedIn](https://www.linkedin.com/in/luciano-torres-ab0a96259)
