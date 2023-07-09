@@ -1,5 +1,5 @@
 <h1 align="justify">Hola! Mi nombre es Luciano Chirito</h1>
-<h3 align="justify">Tambien conocido como LMCT04 en GitHub</h3>
+<h2 align="justify">Tambien conocido como LMCT04 en GitHub</h2>
 
 - 📫 How to reach me **lucianochiritotorres@gmail.com**
 
