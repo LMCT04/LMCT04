@@ -11,10 +11,8 @@
 <h2>¿Que tecnologias uso?</h2>
 <p>Gracias al BootCamp de Henry, eh obtenido los conocimientos necesarios para despegar en el mundo de la programacion. Por lo que las principales tecnologias y herramientas que manejo son:</p>
 
-**Lenguajes:**
-- JavaScript
-
 **Tecnologias y herramientas:**
+- JavaScript
 - React
 - Redux
 - html
