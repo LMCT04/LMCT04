@@ -23,6 +23,8 @@
 - PostgreSQL
 - GitHub
 - Sequelize
+- React Native
+- Angular
 
 Como contactarme: **lucianochiritotorres@gmail.com**
 
